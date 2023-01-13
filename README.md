@@ -1,4 +1,5 @@
-# PortfolioProject-1
+# COVID Data Visualization
+
 
 The SQL file contains different queries which extract data from the Excel Database and helps in visualizing it.
 
